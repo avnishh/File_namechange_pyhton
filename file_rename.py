@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Define the folder where your files are located and the Excel file path.
-
+#pip3 install pandas openpyxl
 #folder_raw_path= r"c:\Users\admin\Desktop\iai\data"
 current_directory = os.getcwd()
 folder_path_raw = f"{current_directory}\data"
